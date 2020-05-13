@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['../.spyder-py3/temp.py', 'deep-belief-network/untitled2.py', 'MMtest1.py', 'concorde/util.py', 'MyData/coords/test0.tsp']
+recent_files = ['TSPPlotModelTest.py', 'TSP_Neural_GA_Selection.py', 'GenerateTSPData.py', 'TSP_Neat_Test.py', 'config.feedforward.txt']
 
