@@ -4,5 +4,4 @@ Library to hold implementation work for Traveling Salesman Problem research for 
 
 # Visual Agents
 Convolutional Neural Network models trained to identify optimal TSP tours
-![](TSP_NVA.gif)
-![](TSP_NVA1.gif)
+![](TSP_NVA.gif) ![](TSP_NVA1.gif)
